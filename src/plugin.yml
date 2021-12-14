@@ -1,0 +1,8 @@
+name: ItemsCustom
+version: 1.0
+author: Rorocraft77
+main: fr.rorocraft.items.ItemsCustom
+commands:
+   igive:
+     description: "Donner un item custom au joueur"
+     permission: itemscustom.use
